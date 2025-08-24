@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @mohammadazimkhan
 - 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning Ai
-- 💞️ I’m looking forward to make the best Ai out.
-- 📫 How to reach me?... mail me on mohammadazimkhan44@gmail.com
-- ⚡ Fun fact: I am just 15.
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking forward to making the best AI out.
+- 📫 How to reach me?... mail me at mohammadazimkhan44@gmail.com
+- ⚡ Fun fact: I am just 16.
 
 <!---
 mohammadazimkhan/mohammadazimkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
